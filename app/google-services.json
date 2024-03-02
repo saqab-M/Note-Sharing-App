@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312264729632",
+    "project_id": "notes-app-uol",
+    "storage_bucket": "notes-app-uol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312264729632:android:3492e6f08ae3f254c48845",
+        "android_client_info": {
+          "package_name": "com.uol.notesappuol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312264729632-vugjbi2d7142gaklmlkuchumc3ukds21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK42Q9G3nv5GJTAT8UQ34T2CIn866wEkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312264729632-vugjbi2d7142gaklmlkuchumc3ukds21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
